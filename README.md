@@ -58,4 +58,5 @@ Antes de executar o script, você pode configurar quais programas e sites deseja
 5. Agora você pode executar o script novamente para abrir os programas e sites configurados.
 
 ## Licença
+
 Este projeto está licenciado sob a licença MIT.
